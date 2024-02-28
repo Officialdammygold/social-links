@@ -41,6 +41,10 @@ h5{
   justify-self: center;
   padding-top: 3%;
 }
+h5:hover{
+  background-color: #a7c825;
+  color: black;
+}
 @media screen and (max-width : 600px){
   .div1{
     background-color: #1f1f1f;
